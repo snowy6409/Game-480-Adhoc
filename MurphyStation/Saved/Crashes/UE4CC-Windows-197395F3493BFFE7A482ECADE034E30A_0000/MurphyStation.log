@@ -1,0 +1,1086 @@
+﻿Log file open, 10/18/19 14:12:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MurphyStation
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.530652
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.12.00:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.18-18.12.00:527][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.18-18.12.00:528][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.12.00:528][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.12.00:531][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.18-18.12.00:531][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.18-18.12.00:532][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.18-18.12.00:533][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.18-18.12.00:533][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.18-18.12.00:533][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.18-18.12.00:549][  0]LogHAL: Display: Platform has ~ 16 GB [17101737984 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.18-18.12.00:549][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.18-18.12.00:549][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.18-18.12.00:549][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.18-18.12.00:550][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.12.00:550][  0]LogInit: Computer: DESKTOP-6DI9CMU
+[2019.10.18-18.12.00:550][  0]LogInit: User: Michael
+[2019.10.18-18.12.00:550][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.10.18-18.12.00:550][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2019.10.18-18.12.00:550][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.18-18.12.00:551][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.18-18.12.00:551][  0]LogMemory: Process Physical Memory: 101.38 MB used, 101.38 MB peak
+[2019.10.18-18.12.00:551][  0]LogMemory: Process Virtual Memory: 104.84 MB used, 104.84 MB peak
+[2019.10.18-18.12.00:551][  0]LogMemory: Physical Memory: 5681.13 MB used,  10628.36 MB free, 16309.49 MB total
+[2019.10.18-18.12.00:551][  0]LogMemory: Virtual Memory: 4705.43 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2019.10.18-18.12.00:566][  0]LogInit: Using OS detected language (en-US).
+[2019.10.18-18.12.00:566][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.18-18.12.00:567][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.18-18.12.00:701][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.18-18.12.00:738][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.18-18.12.00:738][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.18-18.12.00:908][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.18-18.12.00:908][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.18-18.12.00:990][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2019.10.18-18.12.00:990][  0]LogD3D11RHI:       8031/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.18-18.12.00:992][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.18-18.12.00:992][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.18-18.12.00:992][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.18-18.12.00:997][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.18-18.12.00:997][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.18-18.12.00:997][  0]LogWindows: EnumDisplayDevices:
+[2019.10.18-18.12.00:998][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2019.10.18-18.12.00:998][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.10.18-18.12.00:998][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.10.18-18.12.00:998][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2019.10.18-18.12.00:998][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.18-18.12.00:998][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2019.10.18-18.12.00:998][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.10.18-18.12.00:998][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.10.18-18.12.00:998][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2019.10.18-18.12.01:045][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.18-18.12.01:048][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.18-18.12.01:048][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.18-18.12.01:048][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.18-18.12.01:056][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.18-18.12.01:348][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.18-18.12.01:363][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.18-18.12.01:378][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.18-18.12.01:392][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.18-18.12.01:407][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.18-18.12.01:422][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.18-18.12.01:442][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.18-18.12.01:458][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.18-18.12.01:465][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.18-18.12.01:554][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.18-18.12.01:555][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.18-18.12.01:556][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.18-18.12.01:618][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.18-18.12.01:618][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.18-18.12.01:648][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.18-18.12.01:648][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.18-18.12.01:664][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.18-18.12.01:677][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.18-18.12.01:690][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.18-18.12.01:704][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.18-18.12.01:750][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.18-18.12.01:750][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.18-18.12.01:750][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.18-18.12.01:758][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.18-18.12.01:803][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Intermediate/Shaders/WorkingDirectory/8540/).
+[2019.10.18-18.12.01:803][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Michael/AppData/Local/Temp/UnrealShaderWorkingDir/BFD5C8DF431B544846297089CBD8D9B7/'.
+[2019.10.18-18.12.01:805][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.18-18.12.01:805][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.18-18.12.01:805][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.18-18.12.02:465][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.18-18.12.02:501][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Michael/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.18-18.12.02:501][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Michael/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.18-18.12.02:501][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.18-18.12.02:501][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.18-18.12.02:501][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.18-18.12.02:501][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.18-18.12.02:512][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.18-18.12.02:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.18-18.12.02:512][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.18-18.12.02:525][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Michael/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.18-18.12.02:525][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.18-18.12.02:525][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.18-18.12.02:550][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.18-18.12.02:551][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.18-18.12.02:551][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.18-18.12.02:634][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
+[2019.10.18-18.12.02:992][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.18-18.12.03:120][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.18-18.12.03:120][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.18-18.12.03:120][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.18-18.12.03:120][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.18-18.12.03:120][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.18-18.12.03:134][  0]LogNetVersion: MurphyStation 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2413907910)
+[2019.10.18-18.12.03:515][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035674 seconds
+[2019.10.18-18.12.03:523][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.18-18.12.03:523][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.18-18.12.03:523][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.18-18.12.04:294][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.10.18-18.12.04:297][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.18-18.12.04:312][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.18-18.12.04:424][  0]SourceControl: Source control is disabled
+[2019.10.18-18.12.04:424][  0]SourceControl: Source control is disabled
+[2019.10.18-18.12.04:425][  0]SourceControl: Source control is disabled
+[2019.10.18-18.12.04:426][  0]SourceControl: Source control is disabled
+[2019.10.18-18.12.04:506][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.18-18.12.04:579][  0]LogOcInput: OculusInput pre-init called
+[2019.10.18-18.12.05:315][  0]LogEngine: Initializing Engine...
+[2019.10.18-18.12.05:317][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.18-18.12.05:319][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.18-18.12.05:544][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.18-18.12.05:556][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.18-18.12.05:568][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.12.05:598][  0]LogInit: FAudioDevice initialized.
+[2019.10.18-18.12.05:599][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.18-18.12.05:640][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/Michael/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.18-18.12.05:644][  0]LogInit: Texture streaming: Enabled
+[2019.10.18-18.12.05:666][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.18-18.12.05:690][  0]LogInit: Transaction tracking system initialized
+[2019.10.18-18.12.05:714][  0]BlueprintLog: New page: Editor Load
+[2019.10.18-18.12.05:807][  0]LocalizationService: Localization service is disabled
+[2019.10.18-18.12.06:118][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.18-18.12.06:119][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.18-18.12.06:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/' took 0.04s
+[2019.10.18-18.12.06:298][  0]SourceControl: Source control is disabled
+[2019.10.18-18.12.06:298][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.18-18.12.06:298][  0]LightingResults: New page: Lighting Build
+[2019.10.18-18.12.06:301][  0]MapCheck: New page: Map Check
+[2019.10.18-18.12.06:301][  0]LightingResults: New page: Lighting Build
+[2019.10.18-18.12.06:342][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.18-18.12.06:469][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2019.10.18-18.12.06:479][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0008.11] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 41 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2019.10.18-18.12.06:514][  0]LogBlueprint: Warning: [Compiler SoliderAnimations] Taunt to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.10.18-18.12.06:524][  0]LogBlueprint: Warning: [Compiler SoliderAnimations] [0008.15] Compile of SoliderAnimations successful, but with 1 Warning(s) [in 20 ms] (/Game/SoliderAnimations.SoliderAnimations)
+[2019.10.18-18.12.07:422][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.10.18-18.12.08:369][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.18-18.12.08:553][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.10.18-18.12.08:556][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.18-18.12.08:556][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2019.10.18-18.12.08:556][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 2.258
+[2019.10.18-18.12.08:684][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.12.08:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.12.08:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.12.08:702][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.12.08:708][  0]LogCollectionManager: Loaded 0 collections in 0.001348 seconds
+[2019.10.18-18.12.08:751][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Collections/' took 0.01s
+[2019.10.18-18.12.08:751][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/Developers/Michael/Collections/' took 0.01s
+[2019.10.18-18.12.08:751][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/Collections/' took 0.01s
+[2019.10.18-18.12.08:751][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.18-18.12.08:769][  0]LogContentBrowser: Native class hierarchy populated in 0.0178 seconds. Added 2746 classes and 665 folders.
+[2019.10.18-18.12.08:775][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.18-18.12.08:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.12.08:825][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.18-18.12.08:833][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.18-18.12.08:980][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.18-18.12.08:982][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.18-18.12.08:986][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.18-18.12.09:051][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.10.18-18.12.09:359][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.18-18.12.09:468][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.18-18.12.09:468][  0]LogLoad: (Engine Initialization) Total time: 11.10 seconds
+[2019.10.18-18.12.09:468][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.18-18.12.09:570][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.18-18.12.09:596][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2019.10.18-18.12.09:635][  1]LogAssetRegistry: Asset discovery search completed in 7.0244 seconds
+[2019.10.18-18.12.09:638][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.18-18.12.09:638][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.10.18-18.12.10:605][ 15]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.18-18.12.12:102][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.12.13:487][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.12.14:662][191]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/' took 5.16s
+[2019.10.18-18.12.19:691][281]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AmmoPickup.AmmoPickup
+[2019.10.18-18.12.19:964][281]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.10.18-18.12.20:860][281]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.18-18.12.20:924][282]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.18-18.13.11:671][330]Cmd: TRANSACTION UNDO
+[2019.10.18-18.13.11:671][330]LogEditorTransaction: Undo Delete current selection
+[2019.10.18-18.13.12:861][465]Cmd: TRANSACTION UNDO
+[2019.10.18-18.13.12:861][465]LogEditorTransaction: Undo Create Pin Link
+[2019.10.18-18.13.14:026][604]Cmd: TRANSACTION UNDO
+[2019.10.18-18.13.14:026][604]LogEditorTransaction: Undo Move Node
+[2019.10.18-18.13.15:233][744]Cmd: TRANSACTION UNDO
+[2019.10.18-18.13.15:233][744]LogEditorTransaction: Undo Add Component Nodes
+[2019.10.18-18.13.18:964][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AmmoPickup" FILE="../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/Blueprints/AmmoPickup.uasset" SILENT=true
+[2019.10.18-18.13.19:004][184]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/AmmoPickup4534E0E9468BA068CE9976BFDE9886EE.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/Blueprints/AmmoPickup.uasset'
+[2019.10.18-18.13.26:935][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.10.18-18.13.42:644][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.18-18.13.42:645][682]LogMetaData: Removing '/Game/Blueprints/PickupBP.SKEL_PickupBP_C' ref from Metadata '/Game/Blueprints/AmmoPickup_2.PackageMetaData'
+[2019.10.18-18.13.42:645][682]LogMetaData: Removing '/Game/Blueprints/PickupBP.PickupBP_C' ref from Metadata '/Game/Blueprints/AmmoPickup_2.PackageMetaData'
+[2019.10.18-18.13.42:674][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PickupBP" FILE="../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/Blueprints/PickupBP.uasset" SILENT=true
+[2019.10.18-18.13.42:702][682]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/PickupBPBE825A5640BB2709C97E22B287532DDB.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/Blueprints/PickupBP.uasset'
+[2019.10.18-18.13.42:914][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.10.18-18.13.42:950][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.18-18.13.42:986][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.18-18.13.44:484][704]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PickupBP.PickupBP
+[2019.10.18-18.14.32:089][696]LogSlate: Took 0.002339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.18-18.17.38:165][250]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.10.18-18.19.15:401][901]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.10.18-18.20.46:383][586]LogSlate: Window 'PickupBP' being destroyed
+[2019.10.18-18.22.56:060][ 83]LogEditorTransaction: Undo Add Key(s)
+[2019.10.18-18.31.49:600][937]BlueprintLog: New page: Compile PickupBP
+[2019.10.18-18.31.49:603][937]LogBlueprint: Error: [Compiler PickupBP] Could not find a pin for the parameter Player of Pick Up on  Pick Up
+[2019.10.18-18.31.49:603][937]LogBlueprint: Error: [Compiler PickupBP] Pin  New Param  named NewParam doesn't match any parameters of function Pick Up
+[2019.10.18-18.31.49:939][937]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2019.10.18-18.31.49:944][937]LogBlueprint: Warning: [Compiler PickupBP] [1191.57] Compile of PickupBP failed. 2 Fatal Issue(s) 0 Warning(s) [in 344 ms] (/Game/Blueprints/PickupBP.PickupBP)
+[2019.10.18-18.32.25:089][139]BlueprintLog: New page: Compile PickupBP
+[2019.10.18-18.32.25:420][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.10.18-18.32.34:528][223]BlueprintLog: New page: Compile PickupBP
+[2019.10.18-18.32.34:857][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.10.18-18.34.03:967][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.10.18-18.34.03:967][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.045
+[2019.10.18-18.34.03:968][ 95]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PickupBP] ([1] browsable assets)...
+[2019.10.18-18.34.03:986][ 95]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PickupBP.PickupBP]
+[2019.10.18-18.34.03:986][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PickupBP]
+[2019.10.18-18.34.04:021][ 95]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/PickupBP_Auto1C35BFDCF4C83E96522FC7D80D6237DDD.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/Blueprints/PickupBP_Auto1.uasset'
+[2019.10.18-18.34.04:022][ 95]LogFileHelpers: Auto-saving content packages took 0.055
+[2019.10.18-18.44.04:129][730]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.10.18-18.44.04:129][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.044
+[2019.10.18-18.44.04:131][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PickupBP] ([1] browsable assets)...
+[2019.10.18-18.44.04:151][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PickupBP.PickupBP]
+[2019.10.18-18.44.04:152][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PickupBP]
+[2019.10.18-18.44.04:187][730]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/PickupBP_Auto201189EE74E378E3BE11CC098950151C5.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/Blueprints/PickupBP_Auto2.uasset'
+[2019.10.18-18.44.04:188][730]LogFileHelpers: Auto-saving content packages took 0.058
+[2019.10.18-18.48.02:807][489]LogAssetEditorManager: Opening Asset editor for Material /Game/BlueEmissive.BlueEmissive
+[2019.10.18-18.48.02:815][489]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.48.03:296][489]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.48.03:316][489]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.48.03:334][489]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.48.03:334][489]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.48.03:359][489]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.18-18.48.04:056][548]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.48.04:628][602]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.18-18.48.04:628][602]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.18-18.48.04:628][602]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.48.04:628][602]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.49.46:891][573]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.49.46:910][573]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.49.46:910][573]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.49.46:910][573]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.18-18.49.46:923][573]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.18-18.49.46:958][573]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.49.47:002][573]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.18-18.49.47:357][610]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.49.47:612][639]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.49.48:193][702]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.18-18.49.48:193][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.18-18.49.48:193][702]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.49.48:193][702]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.50.42:917][838]LogAssetEditorManager: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2019.10.18-18.50.42:920][838]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.10.18-18.50.43:016][838]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.10.18-18.50.43:031][838]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.10.18-18.50.43:062][838]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.50.43:062][838]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.50.44:019][916]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.18-18.50.44:019][916]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.18-18.50.44:019][916]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.50.44:019][916]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.50.59:755][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.18-18.51.01:208][642]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.18-18.51.01:282][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.10.18-18.53.23:954][504]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.53.23:985][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.53.23:985][505]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.53.24:974][613]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.18-18.53.24:974][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.18-18.53.24:974][613]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.53.24:974][613]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.53.26:518][794]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.53.26:538][794]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.53.26:538][794]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.53.26:540][794]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.53.26:782][813]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.53.27:016][836]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.53.27:595][894]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.18-18.53.27:595][894]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.18-18.53.27:595][894]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.53.27:595][894]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.54.04:674][337]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.04:697][338]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.04:697][338]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.07:932][719]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.07:949][719]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.07:968][719]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.08:003][720]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.08:003][720]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.08:756][799]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.18-18.54.08:757][799]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.18-18.54.08:757][799]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.54.08:757][799]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.54.09:560][895]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.09:575][895]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.09:575][895]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.15:594][609]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.15:647][611]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.54.15:839][629]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.54.16:070][653]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.16:173][664]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.16:924][745]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.18-18.54.16:924][745]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.18-18.54.16:924][745]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.10.18-18.54.16:924][745]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.54.21:947][347]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.21:970][347]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.21:999][348]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.54.22:177][366]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.54.22:394][389]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.22:528][402]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.23:273][482]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.18-18.54.23:273][482]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.18-18.54.23:273][482]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.10.18-18.54.23:273][482]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.54.24:468][625]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.24:495][625]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.24:521][626]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.54.24:709][646]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.54.24:925][670]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.25:071][685]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.25:819][764]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.18-18.54.25:819][764]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.18-18.54.25:819][764]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.10.18-18.54.25:819][764]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.54.27:982][ 23]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.54.28:007][ 24]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.54.28:181][ 39]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.54.28:414][ 63]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.28:541][ 75]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.31:254][384]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.18-18.54.31:254][384]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.18-18.54.31:254][384]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.10.18-18.54.31:254][384]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.54.41:816][449]LogAssetEditorManager: Opening Asset editor for Material /Game/RedEmissive.RedEmissive
+[2019.10.18-18.54.41:819][449]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.54.41:916][449]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.54.41:934][449]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.54.41:954][449]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.41:955][449]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.41:984][449]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.18-18.54.42:194][451]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.42:747][505]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.18-18.54.42:748][505]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.18-18.54.42:748][505]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.54.42:748][505]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.54.55:522][ 34]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.54.55:540][ 34]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.55:540][ 34]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.55:540][ 34]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.18-18.54.55:552][ 34]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.18-18.54.55:589][ 34]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.54.55:639][ 34]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.18-18.54.55:786][ 44]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.54.56:036][ 69]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.54.56:618][133]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.18-18.54.56:618][133]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.18-18.54.56:618][133]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.54.56:619][133]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.55.05:946][248]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.05:971][249]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.05:971][249]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.06:715][325]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.18-18.55.06:715][325]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.18-18.55.06:715][325]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.55.06:715][325]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.55.07:669][436]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.07:689][436]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.07:718][437]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.07:718][437]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.08:471][513]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.18-18.55.08:471][513]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.18-18.55.08:471][513]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.55.08:471][513]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.55.15:064][300]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.15:087][301]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.15:087][301]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.20:472][936]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.20:528][936]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.55.20:529][936]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.20:529][936]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.20:556][936]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.20:679][945]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.55.20:951][971]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.21:408][ 15]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.22:404][122]MaterialEditorStats: Base pass shader: 67 instructions
+[2019.10.18-18.55.22:404][122]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 88 instructions
+[2019.10.18-18.55.22:404][122]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2019.10.18-18.55.22:404][122]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.55.23:840][294]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.23:869][295]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.55.23:869][295]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.24:373][346]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.25:182][439]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.25:197][439]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.25:200][439]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.25:217][439]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.25:404][455]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.25:655][478]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.26:243][537]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.10.18-18.55.26:244][537]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.10.18-18.55.26:244][537]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.18-18.55.26:244][537]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.55.27:130][643]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.27:157][645]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.27:157][645]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.34:522][519]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.34:548][520]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.55.34:718][536]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.55.34:958][558]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.35:072][570]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.35:820][652]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.18-18.55.35:820][652]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.18-18.55.35:820][652]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.10.18-18.55.35:820][652]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.55.44:189][652]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.44:226][652]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.55.44:241][652]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.18-18.55.44:256][652]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.44:465][668]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.55.44:665][687]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.55.44:880][710]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.45:038][727]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.45:365][760]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.10.18-18.55.45:399][760]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.55.45:585][777]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.55.45:817][801]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-18.55.46:048][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-18.55.46:198][842]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-18.55.46:939][922]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.18-18.55.46:939][922]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.18-18.55.46:939][922]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.10.18-18.55.46:939][922]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.56.13:518][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.18-18.56.13:518][327]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.042
+[2019.10.18-18.56.13:520][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RedEmissive] ([1] browsable assets)...
+[2019.10.18-18.56.13:543][327]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RedEmissive.RedEmissive]
+[2019.10.18-18.56.13:544][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/RedEmissive]
+[2019.10.18-18.56.13:565][327]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/RedEmissive_Auto36E9623FC4C3259271DE8F9945B28A70C.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/RedEmissive_Auto3.uasset'
+[2019.10.18-18.56.13:567][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PickupBP] ([1] browsable assets)...
+[2019.10.18-18.56.13:587][327]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PickupBP.PickupBP]
+[2019.10.18-18.56.13:587][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PickupBP]
+[2019.10.18-18.56.13:640][327]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/PickupBP_Auto3E16C264C4B0DF1B6637C3DA1109BFF1D.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/Blueprints/PickupBP_Auto3.uasset'
+[2019.10.18-18.56.13:641][327]LogFileHelpers: Auto-saving content packages took 0.122
+[2019.10.18-18.56.34:787][218]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.18-18.56.38:786][696]LogMaterialEditor: Applying material RedEmissive
+[2019.10.18-18.56.39:311][696]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.56.39:416][696]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.56.39:428][696]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.56.39:494][696]LogMaterial: Display: Missing cached shader map for material RedEmissive, compiling. 
+[2019.10.18-18.56.39:599][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.18-18.56.39:776][696]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.18-18.56.40:752][696]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.18-18.56.40:753][696]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.18-18.56.40:753][696]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.18-18.56.40:755][696]TextureStreamingBuild: Display: Compiling optional shaders took 0.992 seconds.
+[2019.10.18-18.56.40:797][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.18-18.56.42:628][910]LogMaterialEditor: Saving and Compiling material RedEmissive
+[2019.10.18-18.56.43:112][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RedEmissive" FILE="../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/RedEmissive.uasset" SILENT=true
+[2019.10.18-18.56.43:134][910]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/RedEmissive932224CC4F0EB527096740847ACE2476.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/RedEmissive.uasset'
+[2019.10.18-18.56.43:147][910]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.18-18.56.43:147][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.18-18.56.43:147][910]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.10.18-18.56.43:147][910]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.56.45:997][252]LogMaterialEditor: Applying material BlueEmissive
+[2019.10.18-18.56.46:540][252]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.56.46:641][252]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-18.56.46:654][252]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.56.46:740][252]LogMaterial: Display: Missing cached shader map for material BlueEmissive, compiling. 
+[2019.10.18-18.56.46:877][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.18-18.56.46:906][252]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.18-18.56.47:087][252]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.18-18.56.47:771][252]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.18-18.56.47:771][252]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.18-18.56.47:771][252]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.18-18.56.47:773][252]TextureStreamingBuild: Display: Compiling optional shaders took 0.700 seconds.
+[2019.10.18-18.56.47:821][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.10.18-18.56.48:168][289]LogMaterialEditor: Saving and Compiling material BlueEmissive
+[2019.10.18-18.56.49:977][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueEmissive" FILE="../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/BlueEmissive.uasset" SILENT=true
+[2019.10.18-18.56.49:999][289]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/BlueEmissiveAD2F76794F4493555894329B47B17BDE.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/BlueEmissive.uasset'
+[2019.10.18-18.56.50:015][289]MaterialEditorStats: Base pass shader: 111 instructions
+[2019.10.18-18.56.50:015][289]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2019.10.18-18.56.50:015][289]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2019.10.18-18.56.50:015][289]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.18-18.58.22:630][279]BlueprintLog: New page: Compile PickupBP
+[2019.10.18-18.58.22:935][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.10.18-19.00.29:631][319]BlueprintLog: New page: Compile PickupBP
+[2019.10.18-19.00.29:957][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.10.18-19.00.31:586][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PickupBP" FILE="../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/Blueprints/PickupBP.uasset" SILENT=true
+[2019.10.18-19.00.31:624][507]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Saved/PickupBPFE43A3734628652FC0B944926BB7A66E.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Game-480-Adhoc/MurphyStation/Content/Blueprints/PickupBP.uasset'
+[2019.10.18-19.01.07:577][769]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/AmmoPickup.AmmoPickup from Actor to PickupBP_C...
+[2019.10.18-19.01.07:580][769]BlueprintLog: New page: Compile AmmoPickup
+[2019.10.18-19.01.07:870][769]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.10.18-19.01.48:604][893]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AmmoPickup.AmmoPickup
+[2019.10.18-19.01.48:929][893]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2019.10.18-19.01.52:003][250]LogSlate: Window 'CompilerResults' being destroyed
+[2019.10.18-19.01.52:007][250]LogSlate: Window 'CompilerResults' being destroyed
+[2019.10.18-19.01.54:715][566]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AmmoPickup.AmmoPickup
+[2019.10.18-19.02.58:906][182]BlueprintLog: New page: Compile AmmoPickup
+[2019.10.18-19.02.58:924][182]LogBlueprint: Error: [Compiler AmmoPickup] This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2019.10.18-19.02.58:924][182]LogBlueprint: Error: [Compiler AmmoPickup] Variable node  Set Reserve Ammo  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.10.18-19.02.59:232][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.10.18-19.02.59:238][182]LogBlueprint: Warning: [Compiler AmmoPickup] [3060.87] Compile of AmmoPickup failed. 2 Fatal Issue(s) 0 Warning(s) [in 332 ms] (/Game/Blueprints/AmmoPickup.AmmoPickup)
+[2019.10.18-19.03.08:966][346]BlueprintLog: New page: Compile AmmoPickup
+[2019.10.18-19.03.09:263][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.10.18-19.03.13:834][659]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-19.03.13:869][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.10.18-19.03.13:869][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-19.03.13:869][659]PIE: New page: PIE session: TopDownExampleMap (Oct 18, 2019, 11:03:13 AM)
+[2019.10.18-19.03.13:882][659]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.10.18-19.03.14:054][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171731s)
+[2019.10.18-19.03.14:054][659]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.10.18-19.03.14:054][659]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2019.10.18-19.03.14:054][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.172492s)
+[2019.10.18-19.03.14:100][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.10.18-19.03.14:109][659]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-19.03.14:124][659]LogInit: FAudioDevice initialized.
+[2019.10.18-19.03.14:164][659]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.10.18-19.03.14:320][659]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.10.18-15.03.14
+[2019.10.18-19.03.14:353][659]LogWorld: Bringing up level for play took: 0.186535
+[2019.10.18-19.03.14:376][659]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.18-19.03.14:380][659]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.18-19.03.14:380][659]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.18-19.03.14:583][659]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.28
+[2019.10.18-19.03.14:583][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.10.18-19.03.15:037][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063082 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_0', movement 'Walking'
+[2019.10.18-19.03.15:038][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066522 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_1', movement 'Walking'
+[2019.10.18-19.03.15:038][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062663 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_2', movement 'Walking'
+[2019.10.18-19.03.15:039][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067663 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_3', movement 'Walking'
+[2019.10.18-19.03.15:040][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065898 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_4', movement 'Walking'
+[2019.10.18-19.03.15:041][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064400 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_5', movement 'Walking'
+[2019.10.18-19.03.15:041][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066289 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_6', movement 'Walking'
+[2019.10.18-19.03.15:042][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062676 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_7', movement 'Walking'
+[2019.10.18-19.03.15:043][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064451 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_8', movement 'Walking'
+[2019.10.18-19.03.15:043][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066773 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_9', movement 'Walking'
+[2019.10.18-19.03.15:044][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066575 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_10', movement 'Walking'
+[2019.10.18-19.03.15:044][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065790 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_11', movement 'Walking'
+[2019.10.18-19.03.15:045][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064510 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_12', movement 'Walking'
+[2019.10.18-19.03.15:045][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062263 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_13', movement 'Walking'
+[2019.10.18-19.03.15:046][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063116 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_14', movement 'Walking'
+[2019.10.18-19.03.15:047][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063654 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_15', movement 'Walking'
+[2019.10.18-19.03.15:047][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062144 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_16', movement 'Walking'
+[2019.10.18-19.03.15:048][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064181 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_17', movement 'Walking'
+[2019.10.18-19.03.15:048][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067653 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_18', movement 'Walking'
+[2019.10.18-19.03.15:049][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065959 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_19', movement 'Walking'
+[2019.10.18-19.03.15:050][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067041 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_20', movement 'Walking'
+[2019.10.18-19.03.15:050][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064141 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_21', movement 'Walking'
+[2019.10.18-19.03.15:051][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064925 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_22', movement 'Walking'
+[2019.10.18-19.03.15:051][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064518 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_23', movement 'Walking'
+[2019.10.18-19.03.15:052][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064632 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_24', movement 'Walking'
+[2019.10.18-19.03.15:053][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066010 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_25', movement 'Walking'
+[2019.10.18-19.03.15:053][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064993 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_26', movement 'Walking'
+[2019.10.18-19.03.15:054][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065760 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_27', movement 'Walking'
+[2019.10.18-19.03.15:055][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063706 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_28', movement 'Walking'
+[2019.10.18-19.03.15:055][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063407 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_29', movement 'Walking'
+[2019.10.18-19.03.15:056][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066264 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_30', movement 'Walking'
+[2019.10.18-19.03.15:057][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067280 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_31', movement 'Walking'
+[2019.10.18-19.03.15:057][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062294 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_32', movement 'Walking'
+[2019.10.18-19.03.15:058][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067198 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_33', movement 'Walking'
+[2019.10.18-19.03.15:058][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066201 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_34', movement 'Walking'
+[2019.10.18-19.03.15:059][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067183 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_35', movement 'Walking'
+[2019.10.18-19.03.15:060][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063790 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_36', movement 'Walking'
+[2019.10.18-19.03.15:060][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066803 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_37', movement 'Walking'
+[2019.10.18-19.03.15:061][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064763 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_38', movement 'Walking'
+[2019.10.18-19.03.15:061][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064932 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_39', movement 'Walking'
+[2019.10.18-19.03.15:062][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065063 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_40', movement 'Walking'
+[2019.10.18-19.03.15:062][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064135 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_41', movement 'Walking'
+[2019.10.18-19.03.15:063][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063387 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_42', movement 'Walking'
+[2019.10.18-19.03.15:063][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067259 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_43', movement 'Walking'
+[2019.10.18-19.03.15:064][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061933 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_44', movement 'Walking'
+[2019.10.18-19.03.15:065][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061854 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_45', movement 'Walking'
+[2019.10.18-19.03.15:065][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064086 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_46', movement 'Walking'
+[2019.10.18-19.03.15:066][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066875 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_47', movement 'Walking'
+[2019.10.18-19.03.15:067][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062045 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_48', movement 'Walking'
+[2019.10.18-19.03.15:067][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062181 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_49', movement 'Walking'
+[2019.10.18-19.03.15:068][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065395 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_50', movement 'Walking'
+[2019.10.18-19.03.15:069][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062119 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_51', movement 'Walking'
+[2019.10.18-19.03.15:069][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062966 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_52', movement 'Walking'
+[2019.10.18-19.03.15:070][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066583 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_53', movement 'Walking'
+[2019.10.18-19.03.15:070][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065131 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_54', movement 'Walking'
+[2019.10.18-19.03.15:071][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067806 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_55', movement 'Walking'
+[2019.10.18-19.03.15:072][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063295 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_56', movement 'Walking'
+[2019.10.18-19.03.15:072][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063787 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_57', movement 'Walking'
+[2019.10.18-19.03.15:073][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066266 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_58', movement 'Walking'
+[2019.10.18-19.03.15:074][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067569 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_59', movement 'Walking'
+[2019.10.18-19.03.15:074][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062922 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_60', movement 'Walking'
+[2019.10.18-19.03.15:075][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067404 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_61', movement 'Walking'
+[2019.10.18-19.03.15:075][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063700 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_62', movement 'Walking'
+[2019.10.18-19.03.15:076][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065446 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_63', movement 'Walking'
+[2019.10.18-19.03.15:076][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063591 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_64', movement 'Walking'
+[2019.10.18-19.03.15:078][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062271 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_65', movement 'Walking'
+[2019.10.18-19.03.15:079][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066697 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_66', movement 'Walking'
+[2019.10.18-19.03.15:080][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064757 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_67', movement 'Walking'
+[2019.10.18-19.03.15:081][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065000 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_68', movement 'Walking'
+[2019.10.18-19.03.15:081][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064379 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_69', movement 'Walking'
+[2019.10.18-19.03.15:082][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063314 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_70', movement 'Walking'
+[2019.10.18-19.03.15:083][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065869 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_71', movement 'Walking'
+[2019.10.18-19.03.15:084][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062977 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_72', movement 'Walking'
+[2019.10.18-19.03.15:085][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063404 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_73', movement 'Walking'
+[2019.10.18-19.03.15:086][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065680 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_74', movement 'Walking'
+[2019.10.18-19.03.15:087][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065715 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_75', movement 'Walking'
+[2019.10.18-19.03.15:088][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067361 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_76', movement 'Walking'
+[2019.10.18-19.03.15:088][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062270 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_77', movement 'Walking'
+[2019.10.18-19.03.15:089][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064889 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_78', movement 'Walking'
+[2019.10.18-19.03.15:089][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062857 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_79', movement 'Walking'
+[2019.10.18-19.03.15:090][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063370 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_80', movement 'Walking'
+[2019.10.18-19.03.15:091][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064338 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_81', movement 'Walking'
+[2019.10.18-19.03.15:091][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063300 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_82', movement 'Walking'
+[2019.10.18-19.03.15:092][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063477 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_83', movement 'Walking'
+[2019.10.18-19.03.15:093][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066656 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_84', movement 'Walking'
+[2019.10.18-19.03.15:094][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066254 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_85', movement 'Walking'
+[2019.10.18-19.03.15:095][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066176 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_86', movement 'Walking'
+[2019.10.18-19.03.15:095][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065290 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_87', movement 'Walking'
+[2019.10.18-19.03.15:096][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062786 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_88', movement 'Walking'
+[2019.10.18-19.03.15:096][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065803 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_89', movement 'Walking'
+[2019.10.18-19.03.15:097][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063668 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_90', movement 'Walking'
+[2019.10.18-19.03.15:097][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063989 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_91', movement 'Walking'
+[2019.10.18-19.03.15:099][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064683 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_92', movement 'Walking'
+[2019.10.18-19.03.15:100][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067663 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_93', movement 'Walking'
+[2019.10.18-19.03.15:102][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063989 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_94', movement 'Walking'
+[2019.10.18-19.03.15:103][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062574 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_95', movement 'Walking'
+[2019.10.18-19.03.15:105][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067209 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_96', movement 'Walking'
+[2019.10.18-19.03.15:106][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.067253 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_97', movement 'Walking'
+[2019.10.18-19.03.15:107][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063180 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_98', movement 'Walking'
+[2019.10.18-19.03.15:107][660]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.063200 > MaxSimulationTimeStep (0.050) for 'AIPawn_C_99', movement 'Walking'
+[2019.10.18-19.04.40:814][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.10.18-19.04.40:814][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-19.04.40:922][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-19.04.40:923][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.10.18-19.04.40:985][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-19.04.41:059][946]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2019.10.18-19.04.41:073][947]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.18-19.04.42:958][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-19.05.52:114][892]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rooms/RoomBP.RoomBP
+[2019.10.18-19.07.43:468][410]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rooms/RM_Large_Generic.RM_Large_Generic
+[2019.10.18-19.09.46:252][ 27]BlueprintLog: New page: Compile PickupBP
+[2019.10.18-19.09.46:259][ 27]LogBlueprint: Error: [Compiler AmmoPickup] The function in node  Event Pick Up  cannot be overridden and/or placed as event
+[2019.10.18-19.09.46:259][ 27]LogBlueprint: Warning: [Compiler AmmoPickup] No value will be returned by reference. Parameter 'Used'. Node:  Event Pick Up
+[2019.10.18-19.09.46:263][ 27]LogBlueprint: Warning: [Compiler AmmoPickup] [3467.89] Compile of AmmoPickup failed. 1 Fatal Issue(s) 1 Warning(s) [in 10 ms] (/Game/Blueprints/AmmoPickup.AmmoPickup)
+[2019.10.18-19.09.46:651][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.10.18-19.10.02:317][895]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.18-19.10.02:702][895]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.385 s
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: 
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp] [Line: 2335]
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: Graph Pick Up already exists: EdGraph /Game/Blueprints/AmmoPickup.AmmoPickup:Pick Up
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: Stack: 
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbccd16756 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcc513fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbc35466f8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbc354693e UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbc3518c71 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdc88bef UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdc8f390 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdc6a2c4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:702][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdd22a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdc90c95 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdb74021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdbf0301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdbdaaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffbcdbd0414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc0142b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc0141ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc0142d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc0141c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc2045ca66 USER32.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc2045c582 USER32.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc0142e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ff68fc45d3e UE4Editor.exe!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ff68fc5554c UE4Editor.exe!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ff68fc555ca UE4Editor.exe!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ff68fc6316c UE4Editor.exe!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ff68fc65b8e UE4Editor.exe!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc206a7974 KERNEL32.DLL!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: [Callstack] 0x00007ffc21b8a271 ntdll.dll!UnknownFunction []
+[2019.10.18-19.10.02:703][895]LogOutputDevice: Error: 
+[2019.10.18-19.10.02:709][895]LogStats:                SubmitErrorReport -  0.000 s
