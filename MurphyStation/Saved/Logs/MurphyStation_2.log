@@ -13,7 +13,13 @@ LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 
 LogStats: Stats thread started at 0.290392
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini]
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Config/CoalescedSourceConfigs/Hardware.ini]
 LogPluginManager: Mounting plugin Paper2D
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Config/CoalescedSourceConfigs/Paper2D.ini]
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin ActorLayerUtilities
@@ -51,6 +57,7 @@ LogPluginManager: Mounting plugin HTML5Networking
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin MagicLeap
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Config/CoalescedSourceConfigs/MagicLeap.ini]
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin Substance
 LogPluginManager: Mounting plugin AndroidMedia
@@ -91,6 +98,7 @@ LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin OculusVR
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Config/CoalescedSourceConfigs/OculusVR.ini]
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
