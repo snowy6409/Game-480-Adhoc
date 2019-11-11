@@ -817,3 +817,456 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.10-21.30.54:055][620]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill37DC08464B8E0527DC586AB0805E3615.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/health_refill.uasset'
 [2019.11.10-21.30.54:108][620]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill72ED903D418B797719C7F3A122AF305F.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/oxygen_refill.uasset'
 [2019.11.10-21.30.54:168][620]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switchA47767994782EC562120F8AA608F188D.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/power_switch.uasset'
+[2019.11.10-23.00.37:463][792]LogAssetEditorManager: Opening Asset editor for Material /Game/ModelsThatEthanMade/textures/bunk_ladder.bunk_ladder
+[2019.11.10-23.00.39:290][792]LogMaterial: Display: Missing cached shader map for material bunk_ladder, compiling. 
+[2019.11.10-23.00.44:387][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.10-23.01.04:740][792]LogMaterial: Display: Missing cached shader map for material bunk_ladder, compiling. 
+[2019.11.10-23.01.05:496][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.10-23.01.05:500][792]LogMaterial: Display: Missing cached shader map for material bunk_ladder, compiling. 
+[2019.11.10-23.01.06:603][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.10-23.01.06:799][792]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.10-23.01.06:883][792]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.10-23.01.06:973][792]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.10-23.01.11:424][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.10-23.01.14:997][792]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.10-23.01.17:550][803]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.11.10-23.01.17:550][803]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.11.10-23.01.17:550][803]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.11.10-23.01.17:550][803]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.10-23.01.17:550][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.10-23.01.17:550][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.10-23.01.42:993][239]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (27.992 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.10-23.05.04:329][257]LogSlate: Window 'bunk_ladder' being destroyed
+[2019.11.10-23.05.04:336][257]LogSlate: Window 'bunk_ladder' being destroyed
+[2019.11.10-23.27.44:787][317]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.11.10-23.27.45:130][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.11.10-23.27.58:872][359]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.11.11-00.27.46:864][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/health refill_DefaultMaterial_BaseColor.png)
+[2019.11.11-00.27.52:639][225]LogTexture: Display: Building textures: health_refill_DefaultMaterial_BaseColor (AutoDXT, 4096X4096)
+[2019.11.11-00.27.56:933][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/health refill_DefaultMaterial_Normal.png)
+[2019.11.11-00.27.58:135][225]LogTexture: Display: Building textures: health_refill_DefaultMaterial_Normal (BC5, 4096X4096)
+[2019.11.11-00.28.00:754][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/health refill_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.11.11-00.28.01:349][225]LogTexture: Display: Building textures: health_refill_DefaultMaterial_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2019.11.11-00.28.06:159][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/oxygen refill_DefaultMaterial_BaseColor.png)
+[2019.11.11-00.28.06:821][225]LogTexture: Display: Building textures: oxygen_refill_DefaultMaterial_BaseColor (AutoDXT, 4096X4096)
+[2019.11.11-00.28.08:877][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/oxygen refill_DefaultMaterial_Normal.png)
+[2019.11.11-00.28.09:694][225]LogTexture: Display: Building textures: oxygen_refill_DefaultMaterial_Normal (BC5, 4096X4096)
+[2019.11.11-00.28.11:934][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/oxygen refill_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.11.11-00.28.12:525][225]LogTexture: Display: Building textures: oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2019.11.11-00.28.14:628][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/power switch_DefaultMaterial_BaseColor.png)
+[2019.11.11-00.28.15:258][225]LogTexture: Display: Building textures: power_switch_DefaultMaterial_BaseColor (AutoDXT, 4096X4096)
+[2019.11.11-00.28.17:611][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/power switch_DefaultMaterial_Normal.png)
+[2019.11.11-00.28.18:520][225]LogTexture: Display: Building textures: power_switch_DefaultMaterial_Normal (BC5, 4096X4096)
+[2019.11.11-00.28.21:130][225]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/power switch_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2019.11.11-00.28.21:802][225]LogTexture: Display: Building textures: power_switch_DefaultMaterial_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2019.11.11-00.28.43:651][226]LogUObjectHash: Compacting FUObjectHashTables data took 948.60ms
+[2019.11.11-00.28.44:178][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap' took 12.909
+[2019.11.11-00.28.44:448][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2019.11.11-00.28.44:676][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_BaseColor.health_refill_DefaultMaterial_BaseColor]
+[2019.11.11-00.28.44:676][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_BaseColor]
+[2019.11.11-00.28.45:437][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill_DefaultMaterial_Ba7CA6D5E44D61929890D97BAE5DABFDFA.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_BaseColor_Auto2.uasset'
+[2019.11.11-00.28.45:479][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_Normal] ([1] browsable assets)...
+[2019.11.11-00.28.45:493][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_Normal.health_refill_DefaultMaterial_Normal]
+[2019.11.11-00.28.45:493][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_Normal]
+[2019.11.11-00.28.46:475][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill_DefaultMaterial_No8C02FE3943F42AA486117081E678C2E9.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_Normal_Auto2.uasset'
+[2019.11.11-00.28.46:478][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2019.11.11-00.28.46:495][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_OcclusionRoughnessMetallic.health_refill_DefaultMaterial_OcclusionRoughnessMetallic]
+[2019.11.11-00.28.46:495][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_OcclusionRoughnessMetallic]
+[2019.11.11-00.28.47:173][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill_DefaultMaterial_Oc17D33E0644F49E6F022D2DAA821EF5FE.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_OcclusionRoughnessMetallic_Auto2.uasset'
+[2019.11.11-00.28.47:175][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2019.11.11-00.28.47:225][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_BaseColor.oxygen_refill_DefaultMaterial_BaseColor]
+[2019.11.11-00.28.47:225][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_BaseColor]
+[2019.11.11-00.28.48:210][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill_DefaultMaterial_BaBAB36AAC4BB390F9827B458DD1B25EB9.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_BaseColor_Auto2.uasset'
+[2019.11.11-00.28.48:213][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_Normal] ([1] browsable assets)...
+[2019.11.11-00.28.48:227][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_Normal.oxygen_refill_DefaultMaterial_Normal]
+[2019.11.11-00.28.48:227][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_Normal]
+[2019.11.11-00.28.49:032][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill_DefaultMaterial_No1FD8ADE34598B7AAE8FA9BB80CC7D344.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_Normal_Auto2.uasset'
+[2019.11.11-00.28.49:035][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2019.11.11-00.28.49:046][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic.oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic]
+[2019.11.11-00.28.49:046][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic]
+[2019.11.11-00.28.49:537][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill_DefaultMaterial_Oc4600B1CC4B90EA6092F319AC2B789A90.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic_Auto2.uasset'
+[2019.11.11-00.28.49:539][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2019.11.11-00.28.49:551][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_BaseColor.power_switch_DefaultMaterial_BaseColor]
+[2019.11.11-00.28.49:551][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_BaseColor]
+[2019.11.11-00.28.50:178][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch_DefaultMaterial_BasB7B6392949E9749E87DD5D9A1ECE701F.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_BaseColor_Auto2.uasset'
+[2019.11.11-00.28.50:180][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_Normal] ([1] browsable assets)...
+[2019.11.11-00.28.50:193][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_Normal.power_switch_DefaultMaterial_Normal]
+[2019.11.11-00.28.50:194][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_Normal]
+[2019.11.11-00.28.50:778][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch_DefaultMaterial_Nor8F9ADBF749615432059EAABCED3D6221.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_Normal_Auto2.uasset'
+[2019.11.11-00.28.50:780][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2019.11.11-00.28.50:794][226]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_OcclusionRoughnessMetallic.power_switch_DefaultMaterial_OcclusionRoughnessMetallic]
+[2019.11.11-00.28.50:794][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_OcclusionRoughnessMetallic]
+[2019.11.11-00.28.51:469][226]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch_DefaultMaterial_OccC400A634497AF4E07485578ABE7480FD.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Autosaves/Game/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_OcclusionRoughnessMetallic_Auto2.uasset'
+[2019.11.11-00.28.51:499][226]LogFileHelpers: Auto-saving content packages took 7.320
+[2019.11.11-00.28.51:878][227]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (21.509 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.11-00.29.28:479][265]LogMaterial: Display: Missing cached shader map for material health_refill_DefaultMaterial_BaseColor_Mat, compiling. 
+[2019.11.11-00.29.29:140][265]LogMaterial: Display: Missing cached shader map for material health_refill_DefaultMaterial_Normal_Mat, compiling. 
+[2019.11.11-00.29.29:500][265]LogMaterial: Display: Missing cached shader map for material health_refill_DefaultMaterial_OcclusionRoughnessMetallic_Mat, compiling. 
+[2019.11.11-00.29.33:106][309]Cmd: TRANSACTION UNDO
+[2019.11.11-00.29.33:106][309]LogEditorTransaction: Undo Edit Combine Meshes
+[2019.11.11-00.30.16:248][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.11.11-00.30.20:061][ 91]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.11-00.30.21:135][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.11-00.30.22:243][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.11.11-00.30.23:376][102]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.11-00.30.23:697][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.11.11-00.30.26:389][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.11.11-00.30.27:677][150]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.11-00.30.27:850][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.11.11-00.30.38:326][393]LogAssetEditorManager: Opening Asset editor for Material /Game/ModelsThatEthanMade/textures/health_refill.health_refill
+[2019.11.11-00.30.38:611][393]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.30.41:524][393]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.30.41:729][393]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.30.41:967][393]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.30.42:809][393]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.30.45:241][410]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.30.49:043][449]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.11-00.30.49:043][449]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.11-00.30.49:043][449]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-00.30.49:044][449]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.11-00.30.56:790][588]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.30.56:910][588]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.30.56:910][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.30.57:019][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.30.57:056][588]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.30.57:109][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.30.57:178][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.30.57:261][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.30.57:365][588]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.30.57:458][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.30.57:549][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.30.57:602][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.30.57:654][588]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.30.58:363][590]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.02:021][640]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.31.04:210][677]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.11-00.31.04:210][677]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.11-00.31.04:210][677]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-00.31.04:210][677]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.11-00.31.12:585][972]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.31.12:636][972]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.12:711][972]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.31.12:964][975]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.15:028][  5]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.31.18:628][ 97]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.31.18:665][ 97]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.18:691][ 97]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.31.19:070][103]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.20:886][149]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.31.20:989][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.31.22:012][166]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.22:646][196]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.31.22:751][196]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.31.23:194][200]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.24:784][256]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.31.24:881][256]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.31.25:449][262]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.26:440][274]LogMaterialEditor: Saving and Compiling material health_refill
+[2019.11.11-00.31.37:493][274]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.31.37:554][274]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.31.37:712][274]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.31.37:841][274]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.31.38:102][274]LogMaterial: Display: Missing cached shader map for material health_refill, compiling. 
+[2019.11.11-00.31.38:469][274]LogUObjectHash: Compacting FUObjectHashTables data took  33.09ms
+[2019.11.11-00.31.38:611][274]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.11-00.31.42:221][274]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-00.31.42:224][274]TextureStreamingBuild: Display: Compiling optional shaders took 3.702 seconds.
+[2019.11.11-00.31.42:579][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.11-00.31.46:455][274]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill813039154C40BDEBAC648B8A856E29E6.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/health_refill.uasset'
+[2019.11.11-00.31.46:559][274]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.11.11-00.31.46:559][274]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.11.11-00.31.46:559][274]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.11.11-00.31.46:559][274]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.11-00.31.46:559][274]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.11-00.31.46:559][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.11-00.31.57:737][486]LogSlate: Window 'health_refill' being destroyed
+[2019.11.11-00.31.57:743][486]LogSlate: Window 'health_refill' being destroyed
+[2019.11.11-00.32.14:984][880]LogAssetEditorManager: Opening Asset editor for Material /Game/ModelsThatEthanMade/textures/oxygen_refill.oxygen_refill
+[2019.11.11-00.32.15:059][880]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.32.15:459][880]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.32.15:477][880]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.32.15:504][880]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.32.16:896][895]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.32.19:141][929]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.32.22:346][974]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.11-00.32.22:346][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.11-00.32.22:346][974]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-00.32.22:346][974]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.11-00.32.23:347][994]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic.oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic
+[2019.11.11-00.32.24:712][994]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2019.11.11-00.32.24:962][994]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.2274 seconds. Added 1 classes and 2 folders.
+[2019.11.11-00.33.15:225][794]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.15:305][794]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.33.15:305][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.33.15:431][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.33.15:539][794]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.15:819][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.33.15:947][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.33.15:986][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.33.16:042][794]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.16:068][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.33.16:159][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.33.16:236][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.33.16:285][794]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.33.17:966][819]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.33.21:410][875]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.33.23:586][912]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.11-00.33.23:586][912]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.11-00.33.23:586][912]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-00.33.23:586][912]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.11-00.33.29:894][111]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.29:955][111]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.33.29:955][111]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.33.30:325][117]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.33.31:686][156]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.31:792][156]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.33.32:799][182]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.32:884][182]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.33.34:223][229]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.34:353][229]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.33.35:644][272]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.33.35:804][279]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.35:873][279]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.33.36:367][287]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.33.37:385][301]LogMaterialEditor: Saving and Compiling material oxygen_refill
+[2019.11.11-00.33.40:863][301]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.33.40:983][301]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.41:903][301]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.42:044][301]LogMaterial: Display: Missing cached shader map for material oxygen_refill, compiling. 
+[2019.11.11-00.33.42:063][301]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.33.43:259][301]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.11-00.33.48:454][301]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-00.33.48:454][301]LogUObjectHash: Compacting FUObjectHashTables data took 389.76ms
+[2019.11.11-00.33.48:467][301]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.11-00.33.49:276][301]TextureStreamingBuild: Display: Compiling optional shaders took 0.822 seconds.
+[2019.11.11-00.33.52:340][301]LogUObjectHash: Compacting FUObjectHashTables data took  20.05ms
+[2019.11.11-00.33.53:777][301]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refillB16D27AF48246310D6888BAC503B5FEE.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/oxygen_refill.uasset'
+[2019.11.11-00.33.54:712][301]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.11.11-00.33.54:712][301]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.11.11-00.33.54:712][301]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.11.11-00.33.54:724][301]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.11-00.33.54:724][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.11-00.33.54:724][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.11-00.33.59:294][388]LogSlate: Window 'oxygen_refill' being destroyed
+[2019.11.11-00.33.59:301][388]LogSlate: Window 'oxygen_refill' being destroyed
+[2019.11.11-00.34.10:732][664]LogAssetEditorManager: Opening Asset editor for Material /Game/ModelsThatEthanMade/textures/power_switch.power_switch
+[2019.11.11-00.34.10:826][664]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.11:136][664]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.11:159][664]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.11:178][664]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.13:461][687]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.34.18:056][785]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.18:104][785]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.18:104][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.34.18:172][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.34.18:260][785]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.18:364][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.34.18:405][785]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.18:405][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.34.18:457][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.34.18:486][785]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.18:529][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.34.18:597][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.34.18:720][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.34.18:770][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.34.19:694][798]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.23:674][891]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.11-00.34.24:964][934]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.11.11-00.34.24:964][934]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.11.11-00.34.24:965][934]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.11.11-00.34.24:965][934]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.11-00.34.27:076][996]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.27:100][996]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.27:229][996]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.11-00.34.27:914][  7]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.29:861][110]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.30:011][110]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.11-00.34.31:012][135]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.31:277][150]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.31:354][150]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.34.32:212][168]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.32:778][198]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.32:828][198]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.34.33:259][205]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.35:128][272]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.35:174][272]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.11.11-00.34.36:336][288]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.11-00.34.36:489][290]LogMaterialEditor: Saving and Compiling material power_switch
+[2019.11.11-00.34.37:931][290]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.38:301][290]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.38:560][290]LogMaterial: Display: Missing cached shader map for material power_switch, compiling. 
+[2019.11.11-00.34.38:953][290]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.11-00.34.39:215][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2019.11.11-00.34.39:230][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.11-00.34.43:192][290]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.11-00.34.43:195][290]TextureStreamingBuild: Display: Compiling optional shaders took 3.980 seconds.
+[2019.11.11-00.34.43:314][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.11-00.34.47:277][290]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch6DC3122B40A92491DDC60DAF13F5F6ED.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/power_switch.uasset'
+[2019.11.11-00.34.47:311][290]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.11.11-00.34.47:311][290]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2019.11.11-00.34.47:311][290]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.11.11-00.34.47:311][290]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.11-00.34.47:311][290]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.11.11-00.34.47:311][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.11-00.34.47:385][291]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.624 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.11-00.34.48:974][318]LogSlate: Window 'power_switch' being destroyed
+[2019.11.11-00.34.48:987][318]LogSlate: Window 'power_switch' being destroyed
+[2019.11.11-00.35.03:342][591]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.11-00.35.24:187][ 49]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ModelsThatEthanMade/health_refill_bp.health_refill_bp
+[2019.11.11-00.35.27:529][ 49]LogClass: Warning: Enum '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.11-00.35.27:895][ 49]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/MaterialState.MaterialState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.11-00.35.27:992][ 49]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/ImpactType.ImpactType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.11-00.35.28:082][ 49]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/Projectile_Size.Projectile_Size' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.11-00.35.28:132][ 49]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Data/ProjectileState.ProjectileState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.11-00.35.28:148][ 49]LogClass: Warning: Enum '/Game/BallisticsVFX/FirstPersonBPExamples/FirstPersonAssets/Data/RecoilType.RecoilType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:165][ 49]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.11-00.35.28:166][ 49]LogClass: Warning: Enum '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.11-00.35.31:281][ 49]LogRenderer: Reallocating scene render targets to support 1252x712 Format 10 NumSamples 1 (Frame:1).
+[2019.11.11-00.35.46:863][468]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.11.11-00.35.51:736][542]Cmd: TRANSACTION UNDO
+[2019.11.11-00.35.51:736][542]LogEditorTransaction: Undo Edit Static Mesh
+[2019.11.11-00.35.56:531][668]LogUObjectHash: Compacting FUObjectHashTables data took  47.58ms
+[2019.11.11-00.35.58:012][668]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.11-00.35.58:849][668]LogUObjectHash: Compacting FUObjectHashTables data took  17.08ms
+[2019.11.11-00.35.59:164][668]LogUObjectHash: Compacting FUObjectHashTables data took  35.26ms
+[2019.11.11-00.35.59:669][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.11.11-00.36.02:317][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.11.11-00.36.03:793][707]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.11-00.36.04:058][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.11.11-00.36.04:624][707]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.11.11-00.36.04:747][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.11.11-00.36.23:686][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.11.11-00.36.25:091][ 57]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.11-00.36.29:026][ 57]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-00.36.29:752][ 57]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-00.36.30:166][ 57]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-00.36.30:720][ 57]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-00.36.31:223][ 57]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-00.36.31:821][ 57]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-00.36.35:320][ 57]LogSlate: Window 'health_refill_bp' being destroyed
+[2019.11.11-00.36.35:323][ 57]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.11-00.36.35:702][ 57]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ModelsThatEthanMade/health_refill.health_refill
+[2019.11.11-00.37.18:818][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2019.11.11-00.37.21:891][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2019.11.11-00.37.22:023][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.11-00.37.42:824][454]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (20.407 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.11-00.38.18:694][856]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/murphy station art/fbx/power switch.fbx)
+[2019.11.11-00.38.19:728][856]LogFbx: Loading FBX Scene from ../../../../../../Users/amsbu/OneDrive/Desktop/murphy station art/fbx/power switch.fbx
+[2019.11.11-00.38.19:886][856]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.11-00.38.22:663][856]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.11-00.38.23:365][856]LogFbx: Display: Triangulating static mesh Cube.002
+[2019.11.11-00.38.23:580][856]LogFbx: Display: Triangulating static mesh Cube.003
+[2019.11.11-00.38.23:581][856]LogFbx: Display: Triangulating static mesh Cube.004
+[2019.11.11-00.38.23:582][856]LogFbx: Display: Triangulating static mesh Cube.001
+[2019.11.11-00.38.23:584][856]LogFbx: Display: Triangulating static mesh Cube.005
+[2019.11.11-00.38.23:586][856]LogFbx: Display: Triangulating static mesh Cube.006
+[2019.11.11-00.38.23:588][856]LogFbx: Display: Triangulating static mesh Cube
+[2019.11.11-00.38.23:683][856]LogStaticMesh: Building static mesh power_switch...
+[2019.11.11-00.38.23:979][856]LogStaticMesh: Built static mesh [0.33s] /Game/ModelsThatEthanMade/power_switch.power_switch
+[2019.11.11-00.38.24:672][856]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.11-00.38.29:906][929]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-00.38.29:911][929]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-00.38.34:909][956]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/murphy station art/fbx/oxygen refill.fbx)
+[2019.11.11-00.38.34:926][956]LogFbx: Loading FBX Scene from ../../../../../../Users/amsbu/OneDrive/Desktop/murphy station art/fbx/oxygen refill.fbx
+[2019.11.11-00.38.35:097][956]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.11-00.38.36:145][956]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.11-00.38.36:248][956]LogFbx: Display: Triangulating static mesh Sphere
+[2019.11.11-00.38.36:313][956]LogFbx: Display: Triangulating static mesh Sphere.001
+[2019.11.11-00.38.36:351][956]LogFbx: Display: Triangulating static mesh Cube
+[2019.11.11-00.38.36:355][956]LogFbx: Display: Triangulating static mesh BezierCurve
+[2019.11.11-00.38.36:421][956]LogFbx: Display: Triangulating static mesh BezierCurve.001
+[2019.11.11-00.38.36:494][956]LogFbx: Display: Triangulating static mesh NurbsCurve
+[2019.11.11-00.38.36:548][956]LogFbx: Display: Triangulating static mesh NurbsCurve.001
+[2019.11.11-00.38.36:680][956]LogStaticMesh: Building static mesh oxygen_refill...
+[2019.11.11-00.38.36:834][956]LogStaticMesh: Built static mesh [0.20s] /Game/ModelsThatEthanMade/oxygen_refill.oxygen_refill
+[2019.11.11-00.38.37:045][956]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.11-00.38.39:363][992]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-00.38.39:377][992]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-00.38.44:324][ 14]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/murphy station art/fbx/health refill.fbx)
+[2019.11.11-00.38.44:340][ 14]LogFbx: Loading FBX Scene from ../../../../../../Users/amsbu/OneDrive/Desktop/murphy station art/fbx/health refill.fbx
+[2019.11.11-00.38.44:353][ 14]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.11-00.38.45:248][ 14]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.11-00.38.45:305][ 14]LogFbx: Display: Triangulating static mesh Cube
+[2019.11.11-00.38.45:309][ 14]LogFbx: Display: Triangulating static mesh Cylinder
+[2019.11.11-00.38.45:361][ 14]LogFbx: Display: Triangulating static mesh Cube.001
+[2019.11.11-00.38.45:362][ 14]LogFbx: Display: Triangulating static mesh Cube.002
+[2019.11.11-00.38.45:364][ 14]LogFbx: Display: Triangulating static mesh Cube.004
+[2019.11.11-00.38.45:365][ 14]LogFbx: Display: Triangulating static mesh Cube.003
+[2019.11.11-00.38.45:427][ 14]LogStaticMesh: Building static mesh health_refill...
+[2019.11.11-00.38.45:487][ 14]LogStaticMesh: Built static mesh [0.12s] /Game/ModelsThatEthanMade/health_refill.health_refill
+[2019.11.11-00.38.45:721][ 14]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.11.11-00.38.50:115][ 95]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-00.38.50:120][ 95]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-00.38.56:118][210]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ModelsThatEthanMade/health_refill_bp.health_refill_bp
+[2019.11.11-00.39.05:085][329]LogSlate: Took 0.548431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.11-00.39.32:202][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-00.39.32:348][  1]BlueprintLog: New page: Compile health_refill_bp
+[2019.11.11-00.39.33:258][  1]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2019.11.11-00.39.34:898][ 22]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill_bp91AF91374FD1FBD829D2DDBDC002A2FC.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/health_refill_bp.uasset'
+[2019.11.11-00.39.41:119][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-00.39.41:221][132]LogSlate: Window 'health_refill_bp' being destroyed
+[2019.11.11-00.39.41:227][132]LogSlate: Window 'health_refill_bp' being destroyed
+[2019.11.11-00.39.45:907][234]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.11-00.39.54:241][404]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ModelsThatEthanMade/oxygen_refill_bp.oxygen_refill_bp
+[2019.11.11-00.40.13:977][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-00.40.14:073][ 60]BlueprintLog: New page: Compile oxygen_refill_bp
+[2019.11.11-00.40.14:491][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2019.11.11-00.40.15:390][ 69]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill_bp5F97059D49975EFD77BB09AFB57EC88D.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/oxygen_refill_bp.uasset'
+[2019.11.11-00.40.20:069][150]LogSlate: Window 'oxygen_refill_bp' being destroyed
+[2019.11.11-00.40.20:085][150]LogSlate: Window 'oxygen_refill_bp' being destroyed
+[2019.11.11-00.40.23:801][278]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.11-00.40.36:317][637]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ModelsThatEthanMade/power_switch_bp.power_switch_bp
+[2019.11.11-00.41.04:336][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-00.42.37:982][627]LogEditorTransaction: Undo Modify Component(s)
+[2019.11.11-00.42.57:985][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-00.43.03:806][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-00.43.12:250][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-00.43.19:317][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-00.43.24:066][  1]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-00.43.32:049][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-00.43.40:626][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-00.43.40:676][623]BlueprintLog: New page: Compile power_switch_bp
+[2019.11.11-00.43.41:200][623]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2019.11.11-00.43.42:000][631]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch_bpEC46505541978992FBD460BF50127274.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/power_switch_bp.uasset'
+[2019.11.11-00.43.45:930][698]LogSlate: Window 'power_switch_bp' being destroyed
+[2019.11.11-00.43.45:947][698]LogSlate: Window 'power_switch_bp' being destroyed
+[2019.11.11-00.43.51:079][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-00.43.58:366][966]LogEditorViewport: Clicking on Actor (LMB): RM_Large_Generic_C (LargeRoom)
+[2019.11.11-00.44.00:033][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-00.44.06:983][168]LogEditorViewport: Clicking on Actor (LMB): RM_Large_Generic_C (LargeRoom)
+[2019.11.11-00.44.08:950][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-00.44.18:660][445]LogEditorViewport: Clicking on Actor (LMB): RM_Large_Generic_C (LargeRoom)
+[2019.11.11-00.44.47:152][380]LogEditorViewport: Clicking on Actor (LMB): RM_Large_Generic_C (LargeRoom)
+[2019.11.11-00.44.47:761][394]LogEditorViewport: Clicking on Actor (LMB): oxygen_refill_bp_C (oxygen_refill_bp)
+[2019.11.11-00.45.02:936][834]LogEditorViewport: Clicking on Actor (LMB): power_switch_bp_C (power_switch_bp)
+[2019.11.11-00.45.06:212][925]LogEditorViewport: Clicking on Actor (LMB): RM_Large_Generic_C (LargeRoom)
+[2019.11.11-00.45.09:159][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-00.45.09:398][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2019.11.11-00.45.10:640][ 10]LogSlate: Window 'Save Content' being destroyed
+[2019.11.11-00.45.10:849][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.11-00.45.10:997][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.11.11-00.45.14:043][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/TestMap5D3A59754C62BF3C9E388F99AE2AA519.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Maps/TestMap.umap'
+[2019.11.11-00.45.14:215][ 10]LogFileHelpers: Saving map 'TestMap' took 3.548
+[2019.11.11-00.45.14:384][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill8E8410B1463E9ECA4282E8AA57B1EC67.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/health_refill.uasset'
+[2019.11.11-00.45.14:512][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill3EDB3D1046D54B295CFD719F49D001AC.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/oxygen_refill.uasset'
+[2019.11.11-00.45.14:619][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch7B47570E47CACB8BCC79B7A734E58AED.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/power_switch.uasset'
+[2019.11.11-00.45.16:097][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill_DefaultMaterial_Ba51ABCCDE4B1F555C0FA11FAF2AD10023.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_BaseColor.uasset'
+[2019.11.11-00.45.19:126][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill_DefaultMaterial_No5093970F40ABBB966B528D8354AECCBE.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_Normal.uasset'
+[2019.11.11-00.45.20:994][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/health_refill_DefaultMaterial_Oc1020083A4EA9ADB6C4F71EADF6EA6E11.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/health_refill_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.11.11-00.45.22:067][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill_DefaultMaterial_Ba955BB2B24221D360CBA6A29002107F34.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_BaseColor.uasset'
+[2019.11.11-00.45.24:879][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill_DefaultMaterial_NoD4CB50564C8560B7D7057C8F259B95AE.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_Normal.uasset'
+[2019.11.11-00.45.25:928][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/oxygen_refill_DefaultMaterial_Oc6154D2184AE127088284F7B038737911.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/oxygen_refill_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2019.11.11-00.45.27:098][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch_DefaultMaterial_BasDD340D4A4B23CD9499393CB3523C283C.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_BaseColor.uasset'
+[2019.11.11-00.45.30:325][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch_DefaultMaterial_Nor814673C545F5F8A430ABC49712301C94.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_Normal.uasset'
+[2019.11.11-00.45.32:409][ 10]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/power_switch_DefaultMaterial_Occ643720BA4BAE40EFE4D344943EF99B16.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/textures/power_switch_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
