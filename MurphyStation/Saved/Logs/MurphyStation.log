@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 ﻿Log file open, 11/10/19 23:32:27
 =======
 ﻿Log file open, 11/10/19 23:40:57
 >>>>>>> Stashed changes
+=======
+﻿Log file open, 11/17/19 20:52:21
+>>>>>>> master
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -13,6 +17,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: MurphyStation
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.173193
@@ -20,6 +25,10 @@ LogStats: Stats thread started at 0.173193
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.436156
 >>>>>>> Stashed changes
+=======
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.358210
+>>>>>>> master
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -130,7 +139,11 @@ LogInit: Build: ++UE4+Release-4.22-CL-7053642
 LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 1600X Six-Core Processor           , GPU: NVIDIA GeForce GTX 1080 Ti
+=======
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD FX(tm)-6300 Six-Core Processor             , GPU: NVIDIA GeForce GTX 1050 Ti
+>>>>>>> master
 LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
@@ -166,6 +179,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 [2019.11.11-04.32.28:512][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.11.11-04.32.28:512][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -3663,3 +3677,686 @@ Script Stack (0 frames):
 [2019.11.12-01.02.48:143][533]LogExit: Exiting.
 [2019.11.12-01.02.48:538][533]Log file closed, 11/11/19 20:02:48
 >>>>>>> Stashed changes
+=======
+[2019.11.18-01.52.24:677][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.11.18-01.52.24:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.18-01.52.24:678][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.11.18-01.52.24:678][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.11.18-01.52.24:683][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-01.52.24:684][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-01.52.24:685][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-01.52.24:686][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-01.52.24:686][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:686][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-01.52.24:686][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-01.52.24:689][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-01.52.24:689][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.18-01.52.24:821][  0]LogHAL: Display: Platform has ~ 8 GB [8546435072 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.18-01.52.24:821][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.18-01.52.24:821][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.18-01.52.24:860][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.18-01.52.24:860][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.18-01.52.24:861][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:861][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Scalability.ini]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.18-01.52.24:862][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.18-01.52.24:899][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.18-01.52.24:899][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.18-01.52.24:899][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Config/Windows/Engine.ini]
+[2019.11.18-01.52.24:919][  0]LogInit: Computer: DESKTOP-U917RR3
+[2019.11.18-01.52.24:919][  0]LogInit: User: amsbu
+[2019.11.18-01.52.24:919][  0]LogInit: CPU Page size=4096, Cores=3
+[2019.11.18-01.52.24:919][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.18-01.52.24:928][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.11.18-01.52.24:928][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.18-01.52.24:928][  0]LogMemory: Process Physical Memory: 98.90 MB used, 99.59 MB peak
+[2019.11.18-01.52.24:928][  0]LogMemory: Process Virtual Memory: 98.71 MB used, 98.71 MB peak
+[2019.11.18-01.52.24:928][  0]LogMemory: Physical Memory: 5032.09 MB used,  3118.43 MB free, 8150.52 MB total
+[2019.11.18-01.52.24:928][  0]LogMemory: Virtual Memory: 4658.22 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.11.18-01.52.25:539][  0]LogInit: Using OS detected language (en-US).
+[2019.11.18-01.52.25:540][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.18-01.52.25:595][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.18-01.52.26:506][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.18-01.52.27:329][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.18-01.52.27:329][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.18-01.52.36:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.18-01.52.36:518][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.18-01.52.36:721][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.11.18-01.52.36:721][  0]LogD3D11RHI:       4018/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.18-01.52.36:750][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.18-01.52.36:750][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.18-01.52.36:750][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.18-01.52.36:765][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.18-01.52.36:765][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.18-01.52.36:770][  0]LogWindows: EnumDisplayDevices:
+[2019.11.18-01.52.36:770][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.11.18-01.52.36:770][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.18-01.52.36:771][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.18-01.52.36:771][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.18-01.52.36:771][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.18-01.52.36:771][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.11.18-01.52.36:771][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2019.11.18-01.52.36:772][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2019.11.18-01.52.36:772][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.11.18-01.52.36:910][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.18-01.52.37:192][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-01.52.37:193][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-01.52.37:193][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.18-01.52.37:217][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.18-01.52.39:645][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.18-01.52.39:690][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.18-01.52.39:741][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.18-01.52.39:802][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.18-01.52.39:888][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.18-01.52.39:935][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.18-01.52.39:969][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.18-01.52.40:001][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.18-01.52.40:041][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.18-01.52.40:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.18-01.52.40:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.18-01.52.40:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.18-01.52.40:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.18-01.52.40:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.18-01.52.40:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.18-01.52.40:224][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.18-01.52.40:259][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.18-01.52.40:422][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.18-01.52.40:423][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.18-01.52.40:488][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.18-01.52.40:488][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.18-01.52.40:522][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.18-01.52.40:553][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.18-01.52.40:584][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.18-01.52.40:650][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.18-01.52.40:776][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.18-01.52.40:776][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.18-01.52.40:776][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.18-01.52.40:883][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.18-01.52.41:546][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Intermediate/Shaders/WorkingDirectory/21288/).
+[2019.11.18-01.52.41:546][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/amsbu/AppData/Local/Temp/UnrealShaderWorkingDir/2E5790424947B8C903BE3E8715DF67B6/'.
+[2019.11.18-01.52.41:568][  0]LogXGEController: Cleaning working directory: C:/Users/amsbu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.18-01.52.41:569][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.18-01.52.41:569][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.18-01.52.41:569][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.18-01.52.51:962][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.18-01.52.52:818][  0]LogDerivedDataCache: Loaded boot cache 0.84s 71MB C:/Users/amsbu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.18-01.52.52:818][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/amsbu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.18-01.52.52:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.18-01.52.52:818][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.18-01.52.52:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-01.52.52:818][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.18-01.52.52:853][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.18-01.52.52:853][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.18-01.52.52:853][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.18-01.52.52:867][  0]LogDerivedDataCache: Using Local data cache path C:/Users/amsbu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.18-01.52.52:867][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.18-01.52.52:867][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.18-01.52.52:910][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.18-01.52.52:930][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.18-01.52.53:110][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.18-01.52.55:207][  0]LogAssetRegistry: FAssetRegistry took 0.0436 seconds to start up
+[2019.11.18-01.53.00:667][  0]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.11.18-01.53.00:667][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.18-01.53.03:654][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.18-01.53.03:654][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.18-01.53.03:655][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.18-01.53.03:655][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.18-01.53.03:655][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.18-01.53.04:190][  0]LogNetVersion: MurphyStation 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2413907910)
+[2019.11.18-01.53.11:312][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.446540 seconds
+[2019.11.18-01.53.11:364][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.18-01.53.11:364][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.18-01.53.11:364][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.18-01.53.49:939][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.11.18-01.53.50:103][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.18-01.53.50:150][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.18-01.53.51:448][  0]SourceControl: Source control is disabled
+[2019.11.18-01.53.51:448][  0]SourceControl: Source control is disabled
+[2019.11.18-01.53.51:629][  0]SourceControl: Source control is disabled
+[2019.11.18-01.53.51:655][  0]SourceControl: Source control is disabled
+[2019.11.18-01.53.54:125][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.18-01.53.54:890][  0]LogOcInput: OculusInput pre-init called
+[2019.11.18-01.53.58:900][  0]LogEngine: Initializing Engine...
+[2019.11.18-01.53.58:902][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.18-01.53.58:914][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.010 s
+[2019.11.18-01.53.59:367][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.18-01.53.59:543][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.18-01.53.59:642][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-01.53.59:709][  0]LogInit: FAudioDevice initialized.
+[2019.11.18-01.53.59:710][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.18-01.54.00:313][  0]LogDerivedDataCache: Saved boot cache 0.60s 71MB C:/Users/amsbu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.18-01.54.00:334][  0]LogInit: Texture streaming: Enabled
+[2019.11.18-01.54.00:568][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.18-01.54.00:972][  0]LogInit: Transaction tracking system initialized
+[2019.11.18-01.54.01:702][  0]BlueprintLog: New page: Editor Load
+[2019.11.18-01.54.04:686][  0]LocalizationService: Localization service is disabled
+[2019.11.18-01.54.07:559][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.18-01.54.07:559][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.18-01.54.09:393][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/' took 1.06s
+[2019.11.18-01.54.14:915][  0]SourceControl: Source control is disabled
+[2019.11.18-01.54.14:915][  0]Cmd: MAP LOAD FILE="../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-01.54.15:045][  0]LightingResults: New page: Lighting Build
+[2019.11.18-01.54.15:184][  0]MapCheck: New page: Map Check
+[2019.11.18-01.54.15:184][  0]LightingResults: New page: Lighting Build
+[2019.11.18-01.54.15:279][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.11.18-01.54.16:612][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2019.11.18-01.54.16:630][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0145.16] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 97 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2019.11.18-01.54.17:134][  0]LogBlueprint: Warning: [Compiler SoliderAnimations] Dead to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.11.18-01.54.17:155][  0]LogBlueprint: Warning: [Compiler SoliderAnimations] [0145.68] Compile of SoliderAnimations successful, but with 1 Warning(s) [in 103 ms] (/Game/SoliderAnimations.SoliderAnimations)
+[2019.11.18-01.54.39:972][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_83' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.39:972][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_84' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.39:972][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_85' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.39:972][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_86' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.39:972][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadEject_Cue.Pistol_ReloadEject_Cue:SoundCueGraph_41.SoundCueGraphNode_Root_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_52' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_53' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_54' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_69' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_70' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:922][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_71' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_72' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_73' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_74' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_75' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_76' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_77' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_78' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_79' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_80' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_81' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.40:923][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_Fire_Cue.Pistol_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.41:632][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_AmmoPickup_Cue.SR_AmmoPickup_Cue:SoundCueGraph_61.SoundCueGraphNode_206' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.41:632][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_AmmoPickup_Cue.SR_AmmoPickup_Cue:SoundCueGraph_61.SoundCueGraphNode_Root_61' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_27' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_32' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_75' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_76' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_77' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_78' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_79' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_80' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_81' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_82' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.45:738][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Pistol/Pistol_ReloadInsert_Cue.Pistol_ReloadInsert_Cue:SoundCueGraph_41.SoundCueGraphNode_Root_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:155][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_AmmoPickup_Cue.Shotgun_AmmoPickup_Cue:SoundCueGraph_53.SoundCueGraphNode_180' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:155][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_AmmoPickup_Cue.Shotgun_AmmoPickup_Cue:SoundCueGraph_53.SoundCueGraphNode_Root_53' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:182][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/GrenadeLauncher/GL_AmmoPickup_Cue.GL_AmmoPickup_Cue:SoundCueGraph_24.SoundCueGraphNode_12' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:182][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/GrenadeLauncher/GL_AmmoPickup_Cue.GL_AmmoPickup_Cue:SoundCueGraph_24.SoundCueGraphNode_Root_24' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:202][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadMag_Cue.Shotgun_ReloadMag_Cue:SoundCueGraph_14.SoundCueGraphNode_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:202][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadMag_Cue.Shotgun_ReloadMag_Cue:SoundCueGraph_14.SoundCueGraphNode_60' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:202][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadMag_Cue.Shotgun_ReloadMag_Cue:SoundCueGraph_14.SoundCueGraphNode_61' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:202][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadMag_Cue.Shotgun_ReloadMag_Cue:SoundCueGraph_14.SoundCueGraphNode_62' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:203][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadMag_Cue.Shotgun_ReloadMag_Cue:SoundCueGraph_14.SoundCueGraphNode_Root_14' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:301][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadIn_Cue.Shotgun_ReloadIn_Cue:SoundCueGraph_11.SoundCueGraphNode_51' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:301][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadIn_Cue.Shotgun_ReloadIn_Cue:SoundCueGraph_11.SoundCueGraphNode_52' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:301][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadIn_Cue.Shotgun_ReloadIn_Cue:SoundCueGraph_11.SoundCueGraphNode_53' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:301][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_ReloadIn_Cue.Shotgun_ReloadIn_Cue:SoundCueGraph_11.SoundCueGraphNode_Root_11' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_100' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_91' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_92' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_93' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:547][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_94' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:548][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_95' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:548][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_96' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:548][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_97' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:548][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_98' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:548][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_99' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:548][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Fire_Cue.SR_Fire_Cue:SoundCueGraph_69.SoundCueGraphNode_Root_69' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:733][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_ReloadEject_Cue.SR_ReloadEject_Cue:SoundCueGraph_18.SoundCueGraphNode_72' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:733][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_ReloadEject_Cue.SR_ReloadEject_Cue:SoundCueGraph_18.SoundCueGraphNode_73' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:733][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_ReloadEject_Cue.SR_ReloadEject_Cue:SoundCueGraph_18.SoundCueGraphNode_74' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:733][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_ReloadEject_Cue.SR_ReloadEject_Cue:SoundCueGraph_18.SoundCueGraphNode_75' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:733][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_ReloadEject_Cue.SR_ReloadEject_Cue:SoundCueGraph_18.SoundCueGraphNode_Root_18' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:831][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Reload_Cue.SR_Reload_Cue:SoundCueGraph_66.SoundCueGraphNode_76' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:831][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Reload_Cue.SR_Reload_Cue:SoundCueGraph_66.SoundCueGraphNode_77' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:831][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Reload_Cue.SR_Reload_Cue:SoundCueGraph_66.SoundCueGraphNode_78' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:831][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Reload_Cue.SR_Reload_Cue:SoundCueGraph_66.SoundCueGraphNode_79' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.46:831][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/SniperRifle/SR_Reload_Cue.SR_Reload_Cue:SoundCueGraph_66.SoundCueGraphNode_Root_66' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:498][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:498][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:498][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_132' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:498][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_139' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_40' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_41' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_42' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_44' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_45' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_46' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_47' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_48' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_49' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_50' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_51' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:499][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_Fire_Cue.Rifle_Fire_Cue:SoundCueGraph_11.SoundCueGraphNode_Root_11' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:529][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:529][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_4' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:529][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_5' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:530][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_6' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:530][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadInsert_Cue.Rifle_ReloadInsert_Cue:SoundCueGraph_9.SoundCueGraphNode_Root_9' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:648][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadEject_Cue.Rifle_ReloadEject_Cue:SoundCueGraph_4.SoundCueGraphNode_10' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:648][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadEject_Cue.Rifle_ReloadEject_Cue:SoundCueGraph_4.SoundCueGraphNode_11' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:648][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadEject_Cue.Rifle_ReloadEject_Cue:SoundCueGraph_4.SoundCueGraphNode_8' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:648][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadEject_Cue.Rifle_ReloadEject_Cue:SoundCueGraph_4.SoundCueGraphNode_9' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:648][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Rifle/Rifle_ReloadEject_Cue.Rifle_ReloadEject_Cue:SoundCueGraph_4.SoundCueGraphNode_Root_4' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:871][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_192' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:871][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_193' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:871][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_194' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:871][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_195' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.51:871][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Reload_Cue.Shotgun_Reload_Cue:SoundCueGraph_58.SoundCueGraphNode_Root_58' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_12' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_13' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_14' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_15' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_16' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_17' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_18' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_19' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_200' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_205' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:218][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:219][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.52:219][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapLight/Sound/Shotgun/Shotgun_Fire_Cue.Shotgun_Fire_Cue:SoundCueGraph_59.SoundCueGraphNode_Root_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2019.11.18-01.54.53:097][  0]LogAIModule: Creating AISystem for world TestMap
+[2019.11.18-01.54.53:886][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.11.18-01.54.54:044][  0]LogUObjectHash: Compacting FUObjectHashTables data took  10.64ms
+[2019.11.18-01.54.54:044][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-01.54.54:044][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.31ms to complete.
+[2019.11.18-01.54.54:044][  0]LogFileHelpers: Loading map 'TestMap' took 39.130
+[2019.11.18-01.54.55:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-01.54.55:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-01.54.55:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-01.54.55:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-01.54.55:292][  0]LogCollectionManager: Loaded 0 collections in 0.003621 seconds
+[2019.11.18-01.54.55:503][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/Collections/' took 0.01s
+[2019.11.18-01.54.55:503][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Developers/amsbu/Collections/' took 0.00s
+[2019.11.18-01.54.55:503][  0]LogFileCache: Scanning file cache for directory 'C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Collections/' took 0.00s
+[2019.11.18-01.54.55:503][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.18-01.54.55:520][  0]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2746 classes and 665 folders.
+[2019.11.18-01.54.55:667][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.18-01.54.55:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.55:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:015][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:546][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.56:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.57:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.57:077][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.57:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.57:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.57:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.57:272][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.54.57:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.18-01.55.00:649][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.18-01.55.00:773][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.11.18-01.55.01:969][  0]LogSlate: Took 0.159508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.18-01.55.02:116][  0]LogSlate: Took 0.144299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.18-01.55.02:187][  0]LogSlate: Took 0.042794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.18-01.55.02:562][  0]LogRenderer: Reallocating scene render targets to support 1252x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.18-01.55.02:930][  0]LogSlate: Took 0.031274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-01.55.03:160][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.11.18-01.55.03:160][  0]LogLoad: (Engine Initialization) Total time: 191.69 seconds
+[2019.11.18-01.55.03:160][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.18-01.55.03:559][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.18-01.55.03:880][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2019.11.18-01.55.04:380][  2]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.18-01.55.04:383][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-01.55.04:390][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/interactableBP.InteractableBP
+[2019.11.18-01.55.04:981][  2]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2019.11.18-01.55.09:064][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/HealthStation.HealthStation
+[2019.11.18-01.55.09:993][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Locker.Locker
+[2019.11.18-01.55.10:823][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/WeaponCrate.WeaponCrate
+[2019.11.18-01.55.11:634][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/OxygenStation.OxygenStation
+[2019.11.18-01.55.12:370][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/PowerSwitch.PowerSwitch
+[2019.11.18-01.55.13:234][  2]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/' took 10.01s
+[2019.11.18-01.55.13:373][  2]LogSlate: Took 0.044259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.18-01.55.21:109][164]LogSlate: Took 0.023854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.18-01.55.23:142][238]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.18-01.56.20:062][772]LogAssetRegistry: Asset discovery search completed in 204.8794 seconds
+[2019.11.18-01.56.20:158][772]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2019.11.18-01.56.38:514][278]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widget/MainM.MainM
+[2019.11.18-01.56.38:967][278]LogClass: Warning: Enum '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.18-01.56.38:970][278]LogClass: Warning: Enum '/Game/BallisticsVFX/FirstPersonBPExamples/FirstPersonAssets/Data/RecoilType.RecoilType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.18-01.56.38:974][278]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/ImpactType.ImpactType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.18-01.56.38:976][278]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/MaterialState.MaterialState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.18-01.56.38:977][278]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/FXSpawners/BPData/Projectile_Size.Projectile_Size' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.18-01.56.38:979][278]LogClass: Warning: Enum '/Game/BallisticsVFX/FXSpawnerBlueprints/Projectiles/Data/ProjectileState.ProjectileState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/BallisticsVFX/DemoMap/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2019.11.18-01.56.38:985][278]LogClass: Warning: Enum '/Game/GrenadePack/MapAssets/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.11.18-01.56.39:733][278]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.11.18-01.57.10:526][ 62]LogAIModule: Creating AISystem for world Menu
+[2019.11.18-01.57.10:580][ 62]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Menu.Menu
+[2019.11.18-01.57.11:086][ 62]LogUObjectHash: Compacting FUObjectHashTables data took  19.49ms
+[2019.11.18-01.57.11:133][ 62]Cmd: MAP LOAD FILE="../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.18-01.57.11:134][ 62]LightingResults: New page: Lighting Build
+[2019.11.18-01.57.11:136][ 62]LoadErrors: New page: Loading map: Menu.umap
+[2019.11.18-01.57.11:519][ 62]MapCheck: New page: Map Check
+[2019.11.18-01.57.11:519][ 62]LightingResults: New page: Lighting Build
+[2019.11.18-01.57.11:779][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2019.11.18-01.57.12:018][ 62]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.11.18-01.57.12:177][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2019.11.18-01.57.12:291][ 62]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.18-01.57.12:296][ 62]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.573ms to complete.
+[2019.11.18-01.57.12:296][ 62]LogFileHelpers: Loading map 'Menu' took 1.209
+[2019.11.18-01.58.14:506][ 75]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/better menu.jpg)
+[2019.11.18-01.58.15:474][ 75]LogTexture: Display: Building textures: better_menu (AutoDXT, 1920X1080)
+[2019.11.18-01.58.17:896][ 75]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/endless.png)
+[2019.11.18-01.58.17:998][ 75]LogTexture: Display: Building textures: endless (BGRA8, 378X116)
+[2019.11.18-01.58.18:038][ 75]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/quit.png)
+[2019.11.18-01.58.18:149][ 75]LogTexture: Display: Building textures: quit (BGRA8, 237X116)
+[2019.11.18-01.58.18:259][ 75]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/single round.png)
+[2019.11.18-01.58.18:326][ 75]LogTexture: Display: Building textures: single_round (BGRA8, 634X116)
+[2019.11.18-01.58.18:385][ 75]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/amsbu/OneDrive/Desktop/the bestest menu.png)
+[2019.11.18-01.58.18:568][ 75]LogTexture: Display: Building textures: the_bestest_menu (AutoDXT, 1920X1080)
+[2019.11.18-01.59.03:192][951]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.621 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.18-02.00.01:303][745]LogSlate: Took 0.083221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.11.18-02.01.41:273][542]LogEditorTransaction: Undo Move Widget
+[2019.11.18-02.02.30:066][  3]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.18-02.02.38:098][605]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.18-02.02.44:611][129]BlueprintLog: New page: Compile MainM
+[2019.11.18-02.02.44:902][129]LogUObjectHash: Compacting FUObjectHashTables data took  11.24ms
+[2019.11.18-02.02.45:823][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/MainM" FILE="../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Widget/MainM.uasset" SILENT=true
+[2019.11.18-02.02.46:913][166]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/MainM5BB4CBFE44236D0A2AA8A4BC80208229.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Widget/MainM.uasset'
+[2019.11.18-02.02.51:011][467]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-02.02.51:311][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.11.18-02.02.51:432][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-02.02.51:453][467]PIE: New page: PIE session: Menu (Nov 17, 2019, 4:02:51 PM)
+[2019.11.18-02.02.51:586][467]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.11.18-02.02.51:614][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027552s)
+[2019.11.18-02.02.51:632][467]LogAIModule: Creating AISystem for world Menu
+[2019.11.18-02.02.51:677][467]LogPlayLevel: PIE: World Init took: (0.062632s)
+[2019.11.18-02.02.51:677][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.090728s)
+[2019.11.18-02.02.51:804][467]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2019.11.18-02.02.51:848][467]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-02.02.51:927][467]LogInit: FAudioDevice initialized.
+[2019.11.18-02.02.52:021][467]LogLoad: Game class is 'MenuGM_C'
+[2019.11.18-02.02.52:022][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.11.17-21.02.52
+[2019.11.18-02.02.52:056][467]LogWorld: Bringing up level for play took: 0.033920
+[2019.11.18-02.02.52:282][467]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.11.18-02.02.52:310][467]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.11.18-02.02.52:311][467]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.11.18-02.02.52:311][467]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.18-02.02.52:311][467]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.18-02.02.52:311][467]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.18-02.02.52:380][467]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.11.18-02.02.52:393][467]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.18-02.02.52:448][467]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.597
+[2019.11.18-02.02.52:448][467]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.18-02.02.52:452][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.11.18-02.02.58:660][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-02.02.58:769][833]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.11.18-02.02.58:833][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-02.02.58:941][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-02.02.58:941][833]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.11.18-02.02.59:231][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-02.02.59:487][833]LogUObjectHash: Compacting FUObjectHashTables data took  13.52ms
+[2019.11.18-02.02.59:531][834]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.11.18-02.03.17:678][346]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.18-02.03.26:707][ 33]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.18-02.03.31:048][370]BlueprintLog: New page: Compile MainM
+[2019.11.18-02.03.31:302][370]LogUObjectHash: Compacting FUObjectHashTables data took  11.64ms
+[2019.11.18-02.03.34:304][561]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-02.03.34:433][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.11.18-02.03.34:433][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-02.03.34:433][561]PIE: New page: PIE session: Menu (Nov 17, 2019, 4:03:34 PM)
+[2019.11.18-02.03.34:434][561]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Menu
+[2019.11.18-02.03.34:438][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004450s)
+[2019.11.18-02.03.34:439][561]LogAIModule: Creating AISystem for world Menu
+[2019.11.18-02.03.34:439][561]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2019.11.18-02.03.34:439][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menu.Menu to /Game/Maps/UEDPIE_0_Menu.Menu (0.005665s)
+[2019.11.18-02.03.34:575][561]LogUObjectHash: Compacting FUObjectHashTables data took  10.45ms
+[2019.11.18-02.03.34:588][561]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-02.03.34:620][561]LogInit: FAudioDevice initialized.
+[2019.11.18-02.03.34:654][561]LogLoad: Game class is 'MenuGM_C'
+[2019.11.18-02.03.34:656][561]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Menu.Menu up for play (max tick rate 0) at 2019.11.17-21.03.34
+[2019.11.18-02.03.34:656][561]LogWorld: Bringing up level for play took: 0.000794
+[2019.11.18-02.03.34:670][561]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.18-02.03.34:670][561]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.11.18-02.03.34:670][561]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.11.18-02.03.34:671][561]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.11.18-02.03.34:672][561]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.11.18-02.03.34:672][561]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Menu 0.82
+[2019.11.18-02.03.34:672][561]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.18-02.03.34:677][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Menu.Menu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Menu.Menu:PersistentLevel.Menu' with GeneratedClass '/Game/Maps/Menu.Menu_C' with ClassGeneratedBy '/Game/Maps/Menu.Menu:PersistentLevel.Menu'
+[2019.11.18-02.03.36:329][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-02.03.41:669][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2019.11.18-02.03.42:944][ 69]LogSlate: Window 'Save Content' being destroyed
+[2019.11.18-02.03.43:459][ 69]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/better_menuE2492F324919C27BE760B1AAE5F278BD.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/ui_stuff/better_menu.uasset'
+[2019.11.18-02.03.43:486][ 69]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/endlessF715D9E74042E1C55C824094729743B4.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/ui_stuff/endless.uasset'
+[2019.11.18-02.03.43:553][ 69]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/quitA810FCD74D2DA5BF09B2C5988753EC41.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/ui_stuff/quit.uasset'
+[2019.11.18-02.03.43:625][ 69]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/single_roundFFF671AB4FF3B03782F496A10B1B06C6.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/ui_stuff/single_round.uasset'
+[2019.11.18-02.03.44:000][ 69]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/the_bestest_menuD77E3B2A4962EDC06F55408D5C9ABC34.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/ModelsThatEthanMade/ui_stuff/the_bestest_menu.uasset'
+[2019.11.18-02.03.44:007][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/MainM" FILE="../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Widget/MainM.uasset" SILENT=true
+[2019.11.18-02.03.44:093][ 69]LogSavePackage: Moving '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Saved/MainM7BBEA51F4B42E93469C35090E1C38380.tmp' to '../../../../../../Users/amsbu/OneDrive/Desktop/Game-480-Adhoc/MurphyStation/Content/Widget/MainM.uasset'
+>>>>>>> master
